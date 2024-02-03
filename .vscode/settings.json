@@ -1,0 +1,8 @@
+{
+  "workbench.colorTheme": "One Dark Pro Mix",
+  "workbench.preferredDarkColorTheme": "One Dark Pro Darker",
+  "workbench.iconTheme": "vs-seti",
+  "workbench.editor.autoLockGroups": {
+    "terminalEditor": false
+  }
+}
